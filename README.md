@@ -1,5 +1,5 @@
 # Modal
-It's a modal created with React Native with the "Pressable" prop.
+It's a modal created with React Native using "Pressable" prop.
 
 
 
